@@ -39,8 +39,8 @@
 
 ## RayBoy
 ![Imatge del Joc 1]("C:\FEINA\GITHUB\IMATGES\RAYBOY.png")
-- **Repository link**: [![GitHub](https://img.shields.io/badge/GitHub-NomDelRepositori-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usuari/joc1)
-- **Enllaç al vídeo de YouTube**: [![YouTube](https://img.shields.io/badge/YouTube-NomDelVideo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/enllaçdelvideo)
+- **Itch.Io link**: [![GitHub](https://img.shields.io/badge/GitHub-NomDelRepositori-24292F?style=for-the-badge&logo=github&logoColor=white)](https://rayboyy.itch.io/rayboy)
+- **Enllaç al vídeo de YouTube**: [![YouTube](https://img.shields.io/badge/YouTube-RayBoy-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RayBoyGame)
 
 ---
 
