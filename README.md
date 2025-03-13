@@ -32,6 +32,32 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
+### 👉 Some Projects...
+<p align="center">
+## Joc 1: Nom del Joc
+![Imatge del Joc 1](enllaç-a-la-teva-imatge.jpg)
+- **Descripció**: Una breu descripció del joc 1.
+- **Enllaç al repositori**: [Joc 1 a GitHub](https://github.com/usuari/joc1)
+- **Enllaç al vídeo de YouTube**: [Veure el vídeo de Joc 1](https://www.youtube.com/enllaçdelvideo)
+
+---
+
+## Joc 2: Nom del Joc
+![Imatge del Joc 2](enllaç-a-la-teva-imatge2.jpg)
+- **Descripció**: Una breu descripció del joc 2.
+- **Enllaç al repositori**: [Joc 2 a GitHub](https://github.com/usuari/joc2)
+- **Enllaç al vídeo de YouTube**: [Veure el vídeo de Joc 2](https://www.youtube.com/enllaçdelvideo2)
+
+---
+
+## Joc 3: Nom del Joc
+![Imatge del Joc 3](enllaç-a-la-teva-imatge3.jpg)
+- **Descripció**: Una breu descripció del joc 3.
+- **Enllaç al repositori**: [Joc 3 a GitHub](https://github.com/usuari/joc3)
+- **Enllaç al vídeo de YouTube**: [Veure el vídeo de Joc 3](https://www.youtube.com/enllaçdelvideo3)
+
+---
+
 ## 👉️ Let's Connect
 <p align="center">
 	<a href="mailto:gplademunt@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
