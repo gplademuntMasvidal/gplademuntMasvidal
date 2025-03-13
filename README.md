@@ -47,21 +47,21 @@
 ## Portal
 ![Imatge del Joc 2](enllaç-a-la-teva-imatge2.jpg)
 - **Repository link**: [![GitHub](https://img.shields.io/badge/GitHub-Portal-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gplademuntMasvidal/Portal-game)
-- **Youtube link**: [![YouTube](https://img.shields.io/badge/YouTube-NomDelVideo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/enllaçdelvideo2)
+- **Youtube link**: [![YouTube](https://img.shields.io/badge/YouTube-Portal-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/enllaçdelvideo2)
 
 ---
 
 ## Scape from the dark
 ![Imatge del Joc 3](enllaç-a-la-teva-imatge3.jpg)
 - **Repository link**: [![GitHub](https://img.shields.io/badge/GitHub-ScapeFromTheDark-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gplademuntMasvidal/Scape-from-the-dark)
-- **Youtube link**: [![YouTube](https://img.shields.io/badge/YouTube-NomDelVideo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/enllaçdelvideo3)
+- **Youtube link**: [![YouTube](https://img.shields.io/badge/YouTube-ScapeFromTheDark-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/enllaçdelvideo3)
 
 ---
 
 ## Intergalactic battle
 ![Imatge del Joc 4](enllaç-a-la-teva-imatge3.jpg)
 - **Repository link**: [![GitHub](https://img.shields.io/badge/GitHub-IntergalacticBattle-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gplademuntMasvidal/Intergalactic-battle)
-- **Youtube link**: [![YouTube](https://img.shields.io/badge/YouTube-NomDelVideo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/enllaçdelvideo3)
+- **Youtube link**: [![YouTube](https://img.shields.io/badge/YouTube-IntergalacticBattle-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/enllaçdelvideo3)
 
 ---
 
