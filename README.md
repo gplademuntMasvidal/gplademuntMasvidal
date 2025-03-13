@@ -37,7 +37,7 @@
 
 ---
 
-## Joc 1: RayBoy
+## RayBoy
 ![Imatge del Joc 1]("C:\FEINA\GITHUB\IMATGES\RAYBOY.png")
 - **Descripció**: Una breu descripció del joc 1.
 - **Enllaç al repositori**: [![GitHub](https://img.shields.io/badge/GitHub-NomDelRepositori-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usuari/joc1)
@@ -45,7 +45,7 @@
 
 ---
 
-## Joc 2: Nom del Joc
+## Portal
 ![Imatge del Joc 2](enllaç-a-la-teva-imatge2.jpg)
 - **Descripció**: Una breu descripció del joc 2.
 - **Enllaç al repositori**: [![GitHub](https://img.shields.io/badge/GitHub-NomDelRepositori-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usuari/joc2)
@@ -53,9 +53,17 @@
 
 ---
 
-## Joc 3: Nom del Joc
+## Scape from the dark
 ![Imatge del Joc 3](enllaç-a-la-teva-imatge3.jpg)
 - **Descripció**: Una breu descripció del joc 3.
+- **Enllaç al repositori**: [![GitHub](https://img.shields.io/badge/GitHub-NomDelRepositori-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usuari/joc3)
+- **Enllaç al vídeo de YouTube**: [![YouTube](https://img.shields.io/badge/YouTube-NomDelVideo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/enllaçdelvideo3)
+
+---
+
+## Intergalactic battle
+![Imatge del Joc 4](enllaç-a-la-teva-imatge3.jpg)
+- **Descripció**: Una breu descripció del joc 4.
 - **Enllaç al repositori**: [![GitHub](https://img.shields.io/badge/GitHub-NomDelRepositori-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usuari/joc3)
 - **Enllaç al vídeo de YouTube**: [![YouTube](https://img.shields.io/badge/YouTube-NomDelVideo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/enllaçdelvideo3)
 
