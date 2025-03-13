@@ -34,6 +34,9 @@
 
 ### 👉 Some Projects...
 <p align="center">
+
+---
+
 ## Joc 1: Nom del Joc
 ![Imatge del Joc 1](enllaç-a-la-teva-imatge.jpg)
 - **Descripció**: Una breu descripció del joc 1.
