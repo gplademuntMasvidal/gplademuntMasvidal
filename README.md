@@ -37,8 +37,8 @@
 
 ---
 
-## Joc 1: Nom del Joc
-![Imatge del Joc 1](enllaç-a-la-teva-imatge.jpg)
+## Joc 1: RayBoy
+![Imatge del Joc 1]("C:\FEINA\GITHUB\IMATGES\RAYBOY.png")
 - **Descripció**: Una breu descripció del joc 1.
 - **Enllaç al repositori**: [![GitHub](https://img.shields.io/badge/GitHub-NomDelRepositori-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usuari/joc1)
 - **Enllaç al vídeo de YouTube**: [![YouTube](https://img.shields.io/badge/YouTube-NomDelVideo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/enllaçdelvideo)
