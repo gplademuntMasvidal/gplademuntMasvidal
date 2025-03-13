@@ -60,7 +60,7 @@
 
 ## Intergalactic battle
 ![Imatge del Joc 4](enllaç-a-la-teva-imatge3.jpg)
-- **Repository link**: [![GitHub](https://img.shields.io/badge/GitHub-NomDelRepositori-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gplademuntMasvidal/Intergalactic-battle)
+- **Repository link**: [![GitHub](https://img.shields.io/badge/GitHub-IntergalacticBattle-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gplademuntMasvidal/Intergalactic-battle)
 - **Youtube link**: [![YouTube](https://img.shields.io/badge/YouTube-NomDelVideo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/enllaçdelvideo3)
 
 ---
