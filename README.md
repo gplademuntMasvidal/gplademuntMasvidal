@@ -40,7 +40,7 @@
 ---
 
 ## Time S*cks
-- **Enllaç al vídeo de YouTube**: [![YouTube](https://img.shields.io/badge/YouTube-RayBoy-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=QcYUbl4Ol5c&t=38s)
+- **Enllaç al vídeo de YouTube**: [![YouTube](https://img.shields.io/badge/YouTube-TimeS*cks-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=QcYUbl4Ol5c&t=38s)
 ---
 
 ## RayBoy
