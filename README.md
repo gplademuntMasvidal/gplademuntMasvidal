@@ -40,7 +40,6 @@
 ---
 
 ## Time S*cks
-- **Itch.Io link**: [![Itch.io](https://img.shields.io/badge/Itch.io-RayBoy-FF5F00?style=for-the-badge&logo=itch.io&logoColor=white)](https://rayboyy.itch.io/rayboy)
 - **Enllaç al vídeo de YouTube**: [![YouTube](https://img.shields.io/badge/YouTube-RayBoy-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=QcYUbl4Ol5c&t=38s)
 ---
 
