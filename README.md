@@ -35,8 +35,8 @@
 ### 👉 Some Projects...
 <p align="center">
 
-
-
+</p>
+</p>
 ---
 
 ## Time S*cks
