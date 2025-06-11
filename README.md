@@ -31,12 +31,12 @@
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
+</p>
+</p>
 
 ### 👉 Some Projects...
 <p align="center">
 
-</p>
-</p>
 ---
 
 ## Time S*cks
